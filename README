@@ -1,0 +1,9 @@
+masterMind.cpp: Plays game of mastermind against a user, is guranteed to win or draw in three turns or less. Uses boolean logic rules
+
+cityOrganizer.py: Randomly organizes a make believe city of thousands of iterations by choosing alike neighbors to live next to each other.
+
+perceptronTraining.py: Trains a single layer perceptron with initial random weights.
+
+dfsContainer.cpp: A depth first search algorithm to get a certian amount of liquid in to two containers
+
+simPlayer.py: Plays the game of SIM against a user, uses alpha beta pruning. 
